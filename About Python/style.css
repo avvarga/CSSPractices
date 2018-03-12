@@ -1,0 +1,125 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wrapper{
+    background: linear-gradient(#245076, #3375ad);
+    width: 970px;
+}
+#size{
+    text-align: right;
+    color: white;
+    margin: 0px 30px 0px 0px;
+    padding: 20px 10px 0px 0px;
+}
+.size{
+    color: goldenrod;
+}
+img{
+    display: inline-block;
+    text-align: left;
+    width: 400px;
+}
+form{
+    display: inline-block;
+    vertical-align: 50px;
+    background: #444444;
+    padding: 15px 30px;
+    border-radius: 10px;
+    margin-left: 300px;
+    box-shadow: 4px 4px black;
+    margin-top: 0px;
+}
+#header{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#topnavigation{
+    color: white;
+    background: #3b78ad;
+    padding: 5px 30px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px black;
+
+}
+    #topnavigation li{
+        display: inline;
+        text-align: center;
+        margin: 0px 10px;
+        font-size: 24px;
+        text-decoration-line: none;
+    }
+    #topnavigation li a{
+        color: white;
+    }
+#main{
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+    display: inline-block;
+}
+    #main a{
+        color: white;
+    }
+#rightdata{
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    width: 700px;
+    margin: 0px 20px;
+}
+#top{
+    font-size: 14px;
+}
+h3{
+    color: gold;
+    font-style: italic;
+}
+#secondary_content{
+    background: white;
+    color: black;
+    text-align: center;
+}
+    #secondary_content a{
+        color: #74a7d5;
+        font-size: 14px;
+    }
+    #secondary_content p{
+        margin: 0px 30px;
+    }
+#Started{
+    width: 400px;
+    margin: 10px 10px 20px 30px;
+    border-top: 6px solid #74a7d5;
+    display: inline-block;
+    vertical-align: top;
+}
+#Applications{
+    width: 400px;
+    margin: 10px 30px 20px 0px;
+    border-top: 6px solid #74a7d5;
+    display: inline-block;
+}
+h4{
+    margin: 5px;
+    font-weight: 600;
+
+}
+footer{
+    text-align: center;
+}
+footer li{
+    display: inline;
+    text-align: center;
+    margin: 20px;
+}
+footer li a{
+    color: #74a7d5;
+}
+footer p{
+    color: #74a7d5;
+    text-align: center;
+    font-size: 10px;
+}
